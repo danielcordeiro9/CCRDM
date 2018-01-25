@@ -1,0 +1,389 @@
+body{
+        
+        margin-left: 60px;
+        margin-right: 60px;
+        line-height: 1.5em;
+        background-color: black;
+        text-align: justify;
+        text-decoration:none; 
+ 
+          
+        
+}
+
+div{font-family:Georgia}
+
+#um{
+        text-decoration: none;
+        color: #000;
+        }
+#dois{
+        text-decoration: none;
+        color: #000;
+        }
+#tres{
+        text-decoration: none;
+        color: #000;
+        }
+#quatro{
+        text-decoration: none;
+        color: #000;
+        }
+        
+
+header#primeiraparte{
+        
+        
+        padding-bottom: 50px;
+        height: 100%;
+        margin-left: -60px;
+        margin-right: -60px;
+        background-color: black;
+        padding-top: 150px;
+        border-bottom: double 6px;
+        border-color:#f5f90c;
+}
+
+
+
+#imagem1{
+        position: relative;
+        right: auto;
+        left: 280px;
+        bottom: 65px;
+        
+        
+}
+#imagem2{
+        float: right;
+        width: 570px;
+        height: 340px;
+        border: solid 10px #f5f90c;
+        margin-top: 155px;
+        position: relative;
+        right: px;
+        
+}
+
+
+#cabecalho{
+         
+        background: linear-gradient(45deg, #010101 0%,#1b1b1b 0%,#010101 0%,#383838 0%,#0d0d0d 12%,#0d0d0d 12%,#fff314 23%,#959595 38%,#0a0a0a 46%,#fff314 59%,#0a0a0a 72%,#0a0a0a 72%,#4e4e4e 77%,#4e4e4e 77%,#fff314 89%,#020000 95%);  
+        color: #f5f90c;
+        position:fixed;
+        top:0;
+        left:0;
+        width: 100%;
+        height: 100px;
+        opacity: 0.9;
+        height: 160px;
+       z-index: 9999;
+      
+          
+      
+                
+}
+#mocarria{  font-size: 38px;
+        position: relative;
+        top: 1em;
+        margin-left: 60px;
+        
+        width: 160px;
+        color: white;
+        }
+#cabecalho2{
+   
+                margin-top: 32px;
+                color: #ffef40;
+                padding: 10px;
+                float: right;
+                position: relative;
+                top: -3em;
+                font-size: 23px;
+                
+}
+#cabecalho ul {
+                padding-right: 60px;
+                list-style-type: none;
+                padding-left: 0;  
+              }
+#cabecalho li {
+                display:inline-block;
+                color: #000000;
+                margin-right: 1em;
+                background-color: #f5f90c;
+                padding: 0.5em 1em;
+              }
+  #cabecalho li:hover{background-color:white;
+        }            
+              
+              
+#historia{
+            width: 630px;
+            font-size: 18px;
+        
+}
+
+
+#inicio{
+            padding-left: 20px;
+            background-color:#f5f90c; 
+            width:650px;
+            margin-top: 170px;
+            padding-bottom: 1px;
+            text-align: justify;
+            margin-left: 60px;
+        margin-right: 0px;
+        padding-top: 10px;
+        margin-top: 5px;
+        
+       
+                
+}
+
+
+
+
+
+
+header#segundaparte{
+         padding-bottom: 50px;
+             
+         margin-left: -60px;
+        margin-right: -60px;
+        border-bottom: double 6px;
+            border-color:#f5f90c;
+        
+}
+#noticias2{
+        
+        margin-top: 0px;
+    margin-bottom: 50px;
+        color:#f5f90c;
+}
+
+#noticias{
+        margin-top: 70px;
+        margin-left: 60px;
+        margin-right: 60px;
+}
+
+
+
+#seis{
+       width: 1200px ;
+       margin-top: 35px;
+    margin-bottom: 35px;
+    color:#f5f90c;
+    background-color:#000;
+        padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    border:solid 1px;
+    border-color:#f5f90c;
+       
+    
+}
+
+#treze{
+           
+           width: 1200px;
+           margin-top: 35px;
+    margin-bottom: 35px;
+    color:#f5f90c;
+    background-color:#000;
+        padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    border:solid 1px;
+    border-color:#f5f90c;
+
+}
+                
+#vinte{
+            width: 1200px;
+            margin-top: 35px;
+    margin-bottom: 35px;
+    color:#f5f90c;
+    background-color:#000;
+        padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+      border:solid 1px;
+    border-color:#f5f90c;
+   
+}
+        
+        
+        
+        
+#seis2{
+       width: 1000px ;
+        font-size: 16px;
+       
+       
+}
+
+
+#treze2{
+           
+           width: 1180px;
+            font-size: 16px;
+           
+}
+        
+
+        
+#vinte2{
+            width: 1000px;
+         font-size: 16px;
+         
+        
+}
+
+
+header#terceiraparte{
+        color:#000;
+         padding-top: 1px;
+        padding-bottom: 50px;
+        margin-left: -60px;
+        margin-right: -60px;
+        background: white;
+        height: 2300px;
+     
+}
+
+           
+#escaloes{
+        margin-top: 70px;
+        width: 200px;
+        margin-left: 60px;
+        margin-right: 60px;
+        height: 250px;
+        
+        }
+        
+#escaloes2{
+        margin-top: 0px;
+    margin-bottom: 50px;
+        
+}
+
+        
+div#traquinas{
+          font-size: 20px;
+        font-style: italic;
+        margin-top: 50px;
+        border: solid 3px;
+         border-color:black;
+        text-align: center;
+        position: relative;
+        left: 50px;
+        width: 600px;
+        height: 467px;
+        
+        
+}     
+div#sub10{
+        font-size: 20px;
+        font-style: italic;
+        margin-top: 50px;
+        border: solid 3px;
+         border-color:black;
+        text-align: center;
+        position: relative;
+        left: 800px;
+        top:-524px;
+        width: 600px;
+        height: 467px;
+}
+div#infantis{
+        font-size: 20px;
+        font-style: italic;
+        margin-top: 50px;
+        border: solid 3px;
+        border-color:black;
+        text-align: center;
+        position: relative;
+        left: 50px;
+        width: 600px;
+        height: 467px;
+        top: -500px;
+}
+div#iniciados{
+        font-size: 20px;
+        font-style: italic;
+        margin-top: 50px;
+        border: solid 3px;
+        border-color:black;
+        text-align: center;
+        position: relative;
+        left: 800px;
+        top:-1023px;
+        width: 600px;
+        height: 467px;   
+}
+div#juvenis{
+        font-size: 20px;
+        font-style: italic;
+        margin-top: 50px;
+        border: solid 3px;
+        border-color:black;
+        text-align: center;
+        position: relative;
+        left: 50px;
+        width: 600px;
+        height: 467px;
+        top: -1000px;
+}
+div#juniores{
+        font-size: 20px;
+        font-style: italic;
+        margin-top: 50px;
+        border: solid 3px;
+        border-color:black;
+        text-align: center;
+        position: relative;
+        left: 800px;
+        top:-1523px;
+        width: 600px;
+        height: 467px;
+}
+div#seniores{
+        font-size: 20px;
+        font-style: italic;
+        margin-top: 50px;
+        border: solid 3px;
+        border-color:black;
+        text-align: center;
+        position: relative;
+        left: 50px;
+        width: 600px;
+        height: 467px;
+        top: -1500px;
+}
+#imagem3{
+        
+        border-top: solid 3px;
+}
+
+#contactos{
+      
+        background: #f5f90c;
+        color: black;
+        margin-bottom: 50px;
+        margin-top: 70px;
+        padding: 30px;
+        border: solid 10px;
+        border-color:white;
+        border-radius: 60%;
+        text-align: center;
+        height: 240px;
+        width: 600px;
+        margin-left: 400px;
+        
+}  
+
+
+
+
