@@ -366,6 +366,36 @@ div#seniores{
         
         border-top: solid 3px;
 }
+#imagem4{
+        
+        border-top: solid 3px;
+}
+
+#imagem5{
+        
+        border-top: solid 3px;
+}
+
+#imagem6{
+        
+        border-top: solid 3px;
+}
+
+#imagem7{
+        
+        border-top: solid 3px;
+}
+
+#imagem8{
+        
+        border-top: solid 3px;
+}
+
+#imagem9{
+        
+        border-top: solid 3px;
+}
+
 
 #contactos{
       
@@ -385,12 +415,84 @@ div#seniores{
 }  
 @media (max-width:750px )
 {
-        
+        #cabecalho2{
+                position: fixed;
+        }
         #imagem2{
                 max-width: 350px;
                 position: relative;
-                left: 63px;
+                left: 65px;
         }
+       #primeiraparte{
+                
+                max-width: 350px;
+        }
+        #escaloes{
+                border: none;
+        }
+        #imagem3{
+                max-width: 300px;
+                position: relative;
+                left: -80px;
+        }
+        #traquinas{
+                max-width: 300px;
+                
+        }
+        #imagem4{
+                
+                max-width: 300px;
+                position: relative;
+                left: -20px;
+        }
+       
+        #imagem5{
+                max-width: 300px;
+                position: relative;
+                left: -220px;
+        }
+        #imagem6{
+                max-width: 300px;
+                position: relative;
+                left: -970px;
+        }
+        #imagem7{
+                max-width: 300px;
+                position: relative;
+                left: -220px;
+        }
+        #imagem8{
+                max-width: 300px;
+                position: relative;
+                left: -970px;
+        }
+        #imagem9{
+                max-width: 300px;
+                position: relative;
+                left: -220px;
+        }
+        #contactos{
+                max-width: 260px;
+                max-height: 1000px;
+                position: relative;
+                left: -420px;
+                font-size: 70%;
+        }
+        
+        #seis{
+                max-width: 260px; 
+        }
+        #treze{
+                max-width: 260px;
+        }
+        #vinte{
+                max-width: 260px;
+        }
+        #inicio{
+                max-width: 260px;
+        }
+        
+        
 }
 
 
