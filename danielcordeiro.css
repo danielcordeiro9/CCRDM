@@ -380,12 +380,18 @@ div#seniores{
         text-align: center;
         height: 240px;
         width: 600px;
-        margin-left: 400px;
+        margin-left: 370px;
         
 }  
-@media    (
-        max-width:500px;
-)
+@media (max-width:750px )
+{
+        
+        #imagem2{
+                max-width: 350px;
+                position: relative;
+                left: 63px;
+        }
+}
 
 
 
