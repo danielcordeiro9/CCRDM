@@ -143,9 +143,6 @@ header#primeiraparte{
 
 
 
-
-
-
 header#segundaparte{
          padding-bottom: 50px;
              
@@ -421,77 +418,258 @@ div#seniores{
         #imagem2{
                 max-width: 350px;
                 position: relative;
-                left: 65px;
+                left: 60px;
+                margin-top: 209px;
+                margin-right: 18px;
         }
-       #primeiraparte{
+       #inicio{
+                max-width: 250px;
+                max-height: 1500px;
+                margin-left: 70px;
+               
+        }
+        
+        #historia{
+                max-width: 220px;
                 
-                max-width: 350px;
         }
+        #cabecalho2{
+                font-size: 70%;
+                position: relative;
+                left: 10px;
+                top: -220px;
+                z-index: 999999;
+        }
+        #imagem1{
+                position: relative;
+                top: -420px;
+                max-width: 95px;
+                max-height: 140px;
+        }
+        #mocarria{
+                position: relative;
+                top: -200px;
+                left: -20px;
+        }
+        #cabecalho{
+                height: 220px;
+                opacity:1;
+                position: relative;
+                    top: -300px;
+                 height: 320px;
+                                
+        }
+        
         #escaloes{
                 border: none;
         }
         #imagem3{
                 max-width: 300px;
                 position: relative;
-                left: -80px;
+                left: -60px;
+                height: 300px;
+                border: none;   
+        }
+        div#traquinas{
+                border: none;
         }
         #traquinas{
-                max-width: 300px;
-                
+                max-width: 100px;
+                max-height: 30px;
+                border: none;
+             
         }
+        #traquinas p{
+                position: relative;
+                top: 20px;
+                left: -60px;
+                border: none;
+        }
+        
+        
         #imagem4{
                 
                 max-width: 300px;
                 position: relative;
                 left: -20px;
+                height: 300px;
+                border-top: none;
+                position: relative;
+                top: 840px;
+                left: -810px;
+        }
+        div#sub10{
+                border: none;
+        }
+        #sub10{
+                 max-width: 100px;
+                max-height: 30px;
+                text-align: center;
+        }
+        #sub10 p{
+                position: relative;
+                top: 855px;
+                left: -826px;
         }
        
         #imagem5{
                 max-width: 300px;
                 position: relative;
                 left: -220px;
+                height: 300px;
+                position: relative;
+                top: 1120px;
+                left: -60px;
+                border-top: none;
+                
+        }
+        div#infantis{
+                border: none;
+        }
+        #infantis{
+                 max-width: 100px;
+                max-height: 30px;
+                text-align: center;
+        }
+        #infantis p{
+                position: relative;
+                top: 1140px;
+                left: -70px;
         }
         #imagem6{
                 max-width: 300px;
                 position: relative;
-                left: -970px;
+                left: -810px;
+                top:1950px;
+                border-top: none;
+                height: 300px;
+        }
+        div#iniciados{
+                border: none;
+        }
+        #iniciados{
+                 max-width: 100px;
+                max-height: 30px;
+                text-align: center;
+        }
+        #iniciados p{
+                position: relative;
+                 top: 1971px;
+                left: -815px;
+                
         }
         #imagem7{
                 max-width: 300px;
                 position: relative;
-                left: -220px;
+                left: -60px;
+                top:2240px;
+                height: 300px;
+                border-top: none;
+        }
+        div#juvenis{
+                border: none;
+        }
+        #juvenis{
+                 max-width: 100px;
+                max-height: 30px;
+                text-align: center;
+        }
+        #juvenis p {
+                position: relative;
+                top: 2260px;
+                left: -70px;
+                
         }
         #imagem8{
                 max-width: 300px;
                 position: relative;
-                left: -970px;
+                left: -810px;
+                top:3050px;
+                height: 300px;
+                border-top: none;
+        }
+        div#juniores{
+                border: none;
+        }
+        #juniores{
+                 max-width: 100px;
+                max-height: 30px;
+                text-align: center;
+        }
+        #juniores p{
+                position: relative;
+                top: 3071px;
+                left: -815px;
         }
         #imagem9{
                 max-width: 300px;
                 position: relative;
-                left: -220px;
+                left: -60px;
+                top:3350px;
+                height: 300px;
+                margin-bottom: 20px;
+                border-top: none;
+                
+        }
+        div#seniores{
+                border: none;
+        }
+        #seniores{
+                 max-width: 100px;
+                max-height: 30px;
+                text-align: center;
+        }
+        #seniores p{
+                position:relative;
+                top: 3371px;
+                left: -66px;
+                
         }
         #contactos{
                 max-width: 260px;
                 max-height: 1000px;
                 position: relative;
-                left: -420px;
+                left: -390px;
+                bottom: 50px;
                 font-size: 70%;
+                margin-top: 100px;
         }
-        
+        #noticias{
+                position: relative;
+                left: -20px;
+                
+        }
         #seis{
-                max-width: 260px; 
+                max-width: 320px;
+                max-height: 1500px; 
+        }
+        #seis2{
+                max-width: 280px;
+                max-height: 1500px; 
         }
         #treze{
-                max-width: 260px;
+                max-width: 320px;
+        }
+        #treze2{
+                max-width: 280px;
+                max-height: 1500px; 
         }
         #vinte{
-                max-width: 260px;
+                max-width: 320px;
+                
         }
-        #inicio{
-                max-width: 260px;
+        #vinte2{
+                max-width: 280px;
+                max-height: 1500px;
+                
         }
         
+        
+        header#terceiraparte{
+                
+              height: 2900px;
+                
+        }
         
 }
 
